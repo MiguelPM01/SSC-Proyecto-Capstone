@@ -1,2 +1,2 @@
 # SSC-Proyecto-Capstone
-Dentro de este repositorio se encontrará la información correspondiente al proyecto Capstone de nombre Smart Security Control (SSC).
+Dentro de este repositorio se encontrará la información correspondiente al proyecto Capstone de nombre Smart Security Control (SSC), el cual será un sistema de seguridad que pretender salvaguardar la integridad de los hogares que monitorea con la implementación de senores de movimiento, de sonido, alarmas y cámaras para realizar un monitoreo y evitar el robo a casa habitación.
